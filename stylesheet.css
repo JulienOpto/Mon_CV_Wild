@@ -1,0 +1,63 @@
+body {
+	background: rgb(104, 187, 285);
+}
+
+#header {
+	text-align: center;
+	font-weight: bold;
+	font-size: 40px;
+	padding-bottom: 25px;
+}
+
+h1 {
+	border: 2px solid black;
+	box-shadow: 2px 2px black;
+	border-radius: 10px;
+}
+
+img {
+	margin: 0 auto;
+	padding: 10%;
+	width: 80%;
+	max-width: 250px;
+}
+
+#left-box {
+	float: left;
+	background: rgb(9, 30, 45);
+	color: white;
+	width: 30%;
+	max-width: 300px;
+}
+
+#left-box p {
+	text-align: center;
+	padding-bottom: 15px;
+}
+
+ul {
+	padding-bottom: 15px;
+}
+
+#right-box {
+	padding-left: 35%;
+}
+
+h2 {
+	font-size: 30px;
+	padding-bottom: 15px;
+	padding-left: 150px;
+	text-decoration: underline;
+}
+
+h3 {
+	padding-left: 30px;
+}
+
+.experience {
+	padding-left: 10px;
+}
+
+.study {
+	padding-left: 10px;
+}
